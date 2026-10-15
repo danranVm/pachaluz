@@ -31,4 +31,4 @@ npm run sync:content
 npm run deploy:static
 ```
 
-详细操作见 [docs/content-maintenance.md](docs/content-maintenance.md)，Nginx 示例见 [deploy/nginx/pachaluz.conf](deploy/nginx/pachaluz.conf)。
+详细操作见 [docs/content-maintenance.md](docs/content-maintenance.md)，GitHub Pages 部署见 [docs/github-pages.md](docs/github-pages.md)，Nginx 示例见 [deploy/nginx/pachaluz.conf](deploy/nginx/pachaluz.conf)。

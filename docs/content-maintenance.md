@@ -11,8 +11,6 @@
 - `socialLinks` / `ticketLinks`：第三方社交与售票地址。设置 `enabled: false` 可暂时隐藏。
 - `defaultLocale` / `defaultTheme`：默认语言和主题。
 
-发布前必须把示例域名 `https://pachaluz.example/` 替换为正式域名。
-
 ## 修改三语文案
 
 每种语言独立维护：
