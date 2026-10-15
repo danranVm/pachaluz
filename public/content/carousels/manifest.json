@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-10-15T03:28:23.480Z",
+  "groups": [
+    {
+      "id": "gallery",
+      "slides": [
+        {
+          "src": "/content/carousels/gallery/images/gallery-01.svg",
+          "altKey": "gallery.gallery-01"
+        },
+        {
+          "src": "/content/carousels/gallery/images/gallery-02.svg",
+          "altKey": "gallery.gallery-02"
+        },
+        {
+          "src": "/content/carousels/gallery/images/gallery-03.svg",
+          "altKey": "gallery.gallery-03"
+        },
+        {
+          "src": "/content/carousels/gallery/images/gallery-04.svg",
+          "altKey": "gallery.gallery-04"
+        }
+      ]
+    },
+    {
+      "id": "hero",
+      "slides": [
+        {
+          "src": "/content/carousels/hero/images/hero-01.svg",
+          "altKey": "hero.hero-01"
+        },
+        {
+          "src": "/content/carousels/hero/images/hero-02.svg",
+          "altKey": "hero.hero-02"
+        },
+        {
+          "src": "/content/carousels/hero/images/hero-03.svg",
+          "altKey": "hero.hero-03"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "PachA Luz 中国彩灯文化节",
+    "description": "走进光影交织的奇境，在沉浸式彩灯、传统文化、美食与现场演出中，共度一个难忘的节庆之夜。",
+    "keywords": "中国彩灯节,灯光节,文化节,马德里活动,家庭活动,春节"
+  },
+  "nav": {
+    "experience": "精彩体验",
+    "gallery": "光影画廊",
+    "visit": "参观信息",
+    "tickets": "立即购票",
+    "language": "切换语言",
+    "theme": "切换主题",
+    "menu": "菜单"
+  },
+  "hero": {
+    "eyebrow": "来自东方的璀璨奇境",
+    "title": "万盏华灯，一夜入梦",
+    "subtitle": "穿越传统与想象交汇的光之长廊，感受中国彩灯艺术带来的震撼与温度。",
+    "dates": "2027年1月23日 — 3月14日 · 马德里",
+    "primaryCta": "购买门票",
+    "secondaryCta": "探索展会",
+    "scroll": "向下探索"
+  },
+  "about": {
+    "eyebrow": "关于 PachA Luz",
+    "title": "光会说话，也会讲述千年故事",
+    "body": "PachA Luz 不只是一场灯展。来自不同地区的匠人以丝绸、钢架和万千灯点，将神话、自然与当代想象编织成可以步入的艺术世界。适合家人、朋友，以及每一位仍相信惊喜的人。",
+    "stats": [
+      { "value": "40+", "label": "大型灯组" },
+      { "value": "1.5km", "label": "沉浸式游览路线" },
+      { "value": "48夜", "label": "限定开放" }
+    ]
+  },
+  "experience": {
+    "eyebrow": "不可错过",
+    "title": "每一步，都是全新的风景",
+    "items": [
+      { "title": "非遗彩灯", "body": "由传统匠人手工塑形、裱糊、绘制，让古老技艺在夜色中焕发新生。", "icon": "灯" },
+      { "title": "现场演艺", "body": "舞狮、民乐与现代舞台轮番登场，把节庆的心跳带到你身边。", "icon": "乐" },
+      { "title": "东方风味", "body": "从热气腾腾的街头小吃到节日甜点，用味觉完成这一场文化旅行。", "icon": "味" }
+    ]
+  },
+  "galleries": {
+    "gallery": {
+      "eyebrow": "光影画廊",
+      "title": "先睹为快，走进不真实的真实",
+      "description": "每组图片都从独立目录自动生成。运维人员可以自由增删图片，无需修改页面代码。"
+    }
+  },
+  "visit": {
+    "eyebrow": "参观信息",
+    "title": "准备好，点亮你的夜晚",
+    "dateLabel": "开放日期",
+    "dateValue": "2027年1月23日 — 3月14日",
+    "venueLabel": "展会场地",
+    "venueValue": "Jardín de la Luz",
+    "addressLabel": "地址",
+    "addressValue": "Avenida del Festival 88, Madrid"
+  },
+  "tickets": {
+    "eyebrow": "限定开放",
+    "title": "下一束光，在等你抵达",
+    "body": "选择官方合作售票平台完成购票。第三方链接将在新窗口打开，票价及场次以售票平台为准。"
+  },
+  "social": {
+    "title": "关注光的下一站",
+    "description": "关注我们的社交平台，获取幕后制作、演出时间和限定活动的最新消息。"
+  },
+  "footer": {
+    "rights": "PachA Luz 版权所有",
+    "privacy": "隐私 · Cookie · 条款"
+  },
+  "accessibility": {
+    "previousSlide": "上一张图片",
+    "nextSlide": "下一张图片",
+    "pauseCarousel": "暂停轮播",
+    "playCarousel": "播放轮播",
+    "goToSlide": "转到图片",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单"
+  },
+  "carouselAlts": {
+    "hero.hero-01": "金色灯笼照亮节庆入口",
+    "hero.hero-02": "龙形彩灯穿过夜空",
+    "hero.hero-03": "游客漫步在绚丽花灯之间",
+    "gallery.gallery-01": "盛放的莲花主题灯组",
+    "gallery.gallery-02": "蓝色森林中的发光仙鹤",
+    "gallery.gallery-03": "传统宫灯组成的长廊",
+    "gallery.gallery-04": "红金配色的巨型凤凰彩灯"
+  },
+  "themeNames": {
+    "spring-festival": "春节主题",
+    "christmas": "圣诞主题"
+  }
+}

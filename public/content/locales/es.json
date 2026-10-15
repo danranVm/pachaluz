@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "PachA Luz Festival de Faroles Chinos",
+    "description": "Entra en un universo iluminado de faroles monumentales, tradiciones vivas, gastronomía y espectAculos para vivir una noche inolvidable.",
+    "keywords": "festival de faroles chinos,festival de luces,festival cultural,eventos Madrid,planes en familia,Año Nuevo Chino"
+  },
+  "nav": {
+    "experience": "Experiencia",
+    "gallery": "Galería",
+    "visit": "Tu visita",
+    "tickets": "Entradas",
+    "language": "Cambiar idioma",
+    "theme": "Cambiar tema",
+    "menu": "Menú"
+  },
+  "hero": {
+    "eyebrow": "Un universo luminoso de Oriente",
+    "title": "Mil luces. Una noche mAgica.",
+    "subtitle": "Recorre un mundo donde la tradición se encuentra con la imaginación y siente la magia del arte de los faroles chinos.",
+    "dates": "23 de enero — 14 de marzo de 2027 · Madrid",
+    "primaryCta": "Comprar entradas",
+    "secondaryCta": "Descubrir el festival",
+    "scroll": "Sigue descubriendo"
+  },
+  "about": {
+    "eyebrow": "Sobre PachA Luz",
+    "title": "La luz cuenta historias de hace miles de años",
+    "body": "PachA Luz es mucho mAs que una exposición. Maestros artesanos transforman seda, acero y miles de luces en un mundo de mitos, naturaleza e imaginación contemporAnea que puedes recorrer con familia, amigos y quienes aún creen en el asombro.",
+    "stats": [
+      { "value": "40+", "label": "Instalaciones monumentales" },
+      { "value": "1,5km", "label": "Recorrido inmersivo" },
+      { "value": "48", "label": "Noches únicas" }
+    ]
+  },
+  "experience": {
+    "eyebrow": "Imprescindibles",
+    "title": "Un paisaje nuevo a cada paso",
+    "items": [
+      { "title": "Arte del farol", "body": "Artesanos tradicionales dan forma, entelan y pintan cada pieza a mano para devolver la vida a un arte milenario.", "icon": "光" },
+      { "title": "EspectAculos", "body": "Danza del león, música tradicional y escena contemporAnea acercan a todos el pulso de la fiesta.", "icon": "舞" },
+      { "title": "Sabores de Asia", "body": "De la comida callejera recién hecha a los dulces festivos, completa el viaje cultural con cada bocado.", "icon": "味" }
+    ]
+  },
+  "galleries": {
+    "gallery": {
+      "eyebrow": "Galería de luz",
+      "title": "Un primer vistazo a lo maravillosamente irreal",
+      "description": "Cada galería se genera desde su propia carpeta. El equipo puede añadir o quitar imAgenes sin cambiar el código."
+    }
+  },
+  "visit": {
+    "eyebrow": "Prepara tu visita",
+    "title": "Todo listo para iluminar tu noche",
+    "dateLabel": "Fechas",
+    "dateValue": "23 de enero — 14 de marzo de 2027",
+    "venueLabel": "Recinto",
+    "venueValue": "Jardín de la Luz",
+    "addressLabel": "Dirección",
+    "addressValue": "Avenida del Festival 88, Madrid"
+  },
+  "tickets": {
+    "eyebrow": "Por tiempo limitado",
+    "title": "La próxima luz te estA esperando",
+    "body": "Elige una plataforma oficial para comprar tus entradas. Los enlaces externos se abren en otra pestaña; precios y horarios dependen de cada plataforma."
+  },
+  "social": {
+    "title": "Sigue el próximo destino de la luz",
+    "description": "Síguenos para descubrir el proceso creativo, horarios de espectAculos y actividades especiales."
+  },
+  "footer": {
+    "rights": "PachA Luz. Todos los derechos reservados.",
+    "privacy": "Privacidad · Cookies · Condiciones"
+  },
+  "accessibility": {
+    "previousSlide": "Imagen anterior",
+    "nextSlide": "Imagen siguiente",
+    "pauseCarousel": "Pausar carrusel",
+    "playCarousel": "Reproducir carrusel",
+    "goToSlide": "Ir a la imagen",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "carouselAlts": {
+    "hero.hero-01": "Faroles dorados iluminan la entrada del festival",
+    "hero.hero-02": "Un dragón luminoso atraviesa el cielo nocturno",
+    "hero.hero-03": "Visitantes pasean entre faroles de colores",
+    "gallery.gallery-01": "Instalación luminosa con forma de flor de loto",
+    "gallery.gallery-02": "Grullas iluminadas en un bosque azul",
+    "gallery.gallery-03": "Pasillo de faroles palaciegos tradicionales",
+    "gallery.gallery-04": "Farol monumental de un fénix rojo y dorado"
+  },
+  "themeNames": {
+    "spring-festival": "Fiesta de Primavera",
+    "christmas": "Navidad"
+  }
+}

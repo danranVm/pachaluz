@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-15T03:28:23.480Z",
+  "themes": [
+    {
+      "id": "spring-festival",
+      "label": "Spring Festival",
+      "stylesheet": "/content/themes/spring-festival/theme.css"
+    },
+    {
+      "id": "christmas",
+      "label": "Christmas",
+      "stylesheet": "/content/themes/christmas/theme.css"
+    }
+  ]
+}

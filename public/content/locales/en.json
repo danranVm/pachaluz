@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "PachA Luz Chinese Lantern Festival",
+    "description": "Step into an illuminated wonderland of monumental lanterns, living traditions, food and live performances for an unforgettable festival night.",
+    "keywords": "Chinese lantern festival,light festival,cultural festival,Madrid events,family activities,Lunar New Year"
+  },
+  "nav": {
+    "experience": "Experience",
+    "gallery": "Gallery",
+    "visit": "Plan your visit",
+    "tickets": "Get tickets",
+    "language": "Change language",
+    "theme": "Change theme",
+    "menu": "Menu"
+  },
+  "hero": {
+    "eyebrow": "A luminous world from the East",
+    "title": "A thousand lights. One magical night.",
+    "subtitle": "Walk through a world where tradition meets imagination and discover the warmth and wonder of Chinese lantern art.",
+    "dates": "23 January — 14 March 2027 · Madrid",
+    "primaryCta": "Get tickets",
+    "secondaryCta": "Explore the festival",
+    "scroll": "Scroll to discover"
+  },
+  "about": {
+    "eyebrow": "About PachA Luz",
+    "title": "Light speaks in stories thousands of years old",
+    "body": "PachA Luz is more than a lantern show. Master artisans shape silk, steel and countless points of light into a walkable world of myths, nature and contemporary imagination—for families, friends and everyone who still believes in wonder.",
+    "stats": [
+      { "value": "40+", "label": "Monumental installations" },
+      { "value": "1.5km", "label": "Immersive trail" },
+      { "value": "48", "label": "Limited nights" }
+    ]
+  },
+  "experience": {
+    "eyebrow": "Not to be missed",
+    "title": "A new world around every corner",
+    "items": [
+      { "title": "Lantern craft", "body": "Traditional makers shape, cover and paint every piece by hand, bringing an ancient art brilliantly back to life.", "icon": "光" },
+      { "title": "Live shows", "body": "Lion dance, traditional music and contemporary performance bring the festival's pulse within reach.", "icon": "舞" },
+      { "title": "Flavours of Asia", "body": "From steaming street food to festive sweets, complete the cultural journey one taste at a time.", "icon": "味" }
+    ]
+  },
+  "galleries": {
+    "gallery": {
+      "eyebrow": "Gallery of light",
+      "title": "A first look into the beautifully unreal",
+      "description": "Every gallery is generated from its own image folder. Operators can add or remove images without touching page code."
+    }
+  },
+  "visit": {
+    "eyebrow": "Plan your visit",
+    "title": "Get ready to light up your night",
+    "dateLabel": "Festival dates",
+    "dateValue": "23 January — 14 March 2027",
+    "venueLabel": "Venue",
+    "venueValue": "Jardín de la Luz",
+    "addressLabel": "Address",
+    "addressValue": "Avenida del Festival 88, Madrid"
+  },
+  "tickets": {
+    "eyebrow": "For a limited time",
+    "title": "The next light is waiting for you",
+    "body": "Choose an official ticketing partner below. Third-party links open in a new tab; prices and time slots are managed by the ticketing platform."
+  },
+  "social": {
+    "title": "Follow where the light goes next",
+    "description": "Follow our social channels for behind-the-scenes stories, showtimes and limited festival events."
+  },
+  "footer": {
+    "rights": "PachA Luz. All rights reserved.",
+    "privacy": "Privacy · Cookies · Terms"
+  },
+  "accessibility": {
+    "previousSlide": "Previous image",
+    "nextSlide": "Next image",
+    "pauseCarousel": "Pause carousel",
+    "playCarousel": "Play carousel",
+    "goToSlide": "Go to image",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "carouselAlts": {
+    "hero.hero-01": "Golden lanterns illuminate the festival entrance",
+    "hero.hero-02": "A luminous dragon stretches across the night sky",
+    "hero.hero-03": "Visitors walk among a field of colourful lanterns",
+    "gallery.gallery-01": "A glowing lotus lantern installation",
+    "gallery.gallery-02": "Illuminated cranes in a blue forest",
+    "gallery.gallery-03": "A walkway made of traditional palace lanterns",
+    "gallery.gallery-04": "A monumental phoenix lantern in red and gold"
+  },
+  "themeNames": {
+    "spring-festival": "Spring Festival",
+    "christmas": "Christmas"
+  }
+}

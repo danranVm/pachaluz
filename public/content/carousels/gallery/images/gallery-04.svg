@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#12041f"/><stop offset=".5" stop-color="#4c092c"/><stop offset="1" stop-color="#100517"/></linearGradient>
+    <linearGradient id="fire"><stop stop-color="#fff0a1"/><stop offset=".3" stop-color="#ffc13d"/><stop offset=".68" stop-color="#f04b35"/><stop offset="1" stop-color="#9d154b"/></linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="30"/></filter>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <ellipse cx="820" cy="500" rx="590" ry="390" fill="#ff5136" opacity=".19" filter="url(#g)"/>
+  <g fill="url(#fire)" stroke="#ffd367" stroke-width="6">
+    <path d="M780 540Q400 100 140 330q300 40 470 300-340-100-450 190 370-60 630 80z"/>
+    <path d="M820 540Q1180 50 1480 290q-330 50-520 330 360-130 500 160-400-35-670 120z"/>
+    <path d="M760 610q-80-300 80-490 160 220 40 500z"/>
+    <path d="M765 560q40-150 160-170-55 80-45 190z"/>
+    <circle cx="934" cy="375" r="13" fill="#24091e" stroke="none"/>
+    <path d="M800 640q-130 160-60 300l80-110 80 120q55-180-65-310z"/>
+  </g>
+  <g fill="#ffe986"><circle cx="190" cy="160" r="9"/><circle cx="380" cy="240" r="6"/><circle cx="1280" cy="180" r="8"/><circle cx="1450" cy="510" r="11"/></g>
+  <path d="M0 900q400-70 800 0t800-25v125H0z" fill="#09030e"/>
+</svg>

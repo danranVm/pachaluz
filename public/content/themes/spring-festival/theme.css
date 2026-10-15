@@ -1,0 +1,33 @@
+:root[data-theme="spring-festival"],
+:root:not([data-theme]) {
+  --color-bg: #180611;
+  --color-bg-soft: #280912;
+  --color-surface: rgba(255, 224, 186, .08);
+  --color-text: #fff7e8;
+  --color-muted: #dbc4bd;
+  --color-primary: #ffd071;
+  --color-primary-strong: #ef553f;
+  --color-accent: #db2341;
+  --color-border: rgba(255, 218, 163, .2);
+  --shadow-glow: 0 0 70px rgba(255, 91, 58, .34);
+}
+
+:root[data-theme="spring-festival"] .brand__sun,
+:root:not([data-theme]) .brand__sun {
+  transform: rotate(10deg);
+}
+
+:root[data-theme="spring-festival"] .experience::after,
+:root:not([data-theme]) .experience::after {
+  position: absolute;
+  right: -80px;
+  bottom: -80px;
+  width: 290px;
+  height: 290px;
+  content: "福";
+  color: rgba(255, 208, 113, .045);
+  font-family: serif;
+  font-size: 230px;
+  line-height: 1;
+  transform: rotate(12deg);
+}
