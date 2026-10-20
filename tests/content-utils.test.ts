@@ -3,6 +3,7 @@ import {
   absoluteUrl,
   getSlideAlt,
   normalizeLocale,
+  resolveBrowserLocale,
   resolveSlideIndex,
   safeJsonLd
 } from '~/utils/content'
@@ -12,8 +13,15 @@ describe('content utilities', () => {
   it('normalizes supported and unsupported locales', () => {
     expect(normalizeLocale('en')).toBe('en')
     expect(normalizeLocale(['es'])).toBe('es')
-    expect(normalizeLocale('fr')).toBe('zh-CN')
-    expect(normalizeLocale(undefined)).toBe('zh-CN')
+    expect(normalizeLocale('fr')).toBe('es')
+    expect(normalizeLocale(undefined)).toBe('es')
+  })
+
+  it('maps browser language variants and falls back to Spanish', () => {
+    expect(resolveBrowserLocale('zh-TW')).toBe('zh-CN')
+    expect(resolveBrowserLocale('en-US')).toBe('en')
+    expect(resolveBrowserLocale('es-MX')).toBe('es')
+    expect(resolveBrowserLocale('fr-FR')).toBe('es')
   })
 
   it('wraps carousel indexes in either direction', () => {

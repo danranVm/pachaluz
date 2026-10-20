@@ -1,9 +1,15 @@
 <script setup lang="ts">
-await navigateTo('/zh-CN/', { redirectCode: 301 })
+import { onMounted } from 'vue'
+import { resolveBrowserLocale } from '~/utils/content'
+
+onMounted(() => {
+  const locale = resolveBrowserLocale(navigator.language)
+  return navigateTo(`/${locale}/`, { replace: true })
+})
 </script>
 
 <template>
   <main class="redirect-page">
-    <a href="/zh-CN/">进入 PachA Luz</a>
+    <a href="/es/">Entrar en PachA Luz</a>
   </main>
 </template>

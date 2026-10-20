@@ -1,5 +1,4 @@
 import {
-  SUPPORTED_LOCALES,
   type CarouselSlide,
   type FestivalMessages,
   type LocaleCode
@@ -7,9 +6,18 @@ import {
 
 export function normalizeLocale(value: string | string[] | undefined): LocaleCode {
   const candidate = Array.isArray(value) ? value[0] : value
-  return SUPPORTED_LOCALES.includes(candidate as LocaleCode)
-    ? (candidate as LocaleCode)
-    : 'zh-CN'
+  if (!candidate) return 'es'
+
+  const normalizedCandidate = candidate.toLowerCase()
+  if (normalizedCandidate === 'zh' || normalizedCandidate.startsWith('zh-')) return 'zh-CN'
+  if (normalizedCandidate === 'en' || normalizedCandidate.startsWith('en-')) return 'en'
+  if (normalizedCandidate === 'es' || normalizedCandidate.startsWith('es-')) return 'es'
+
+  return 'es'
+}
+
+export function resolveBrowserLocale(language: string | undefined): LocaleCode {
+  return normalizeLocale(language)
 }
 
 export function resolveSlideIndex(current: number, change: number, length: number): number {
